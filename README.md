@@ -79,9 +79,8 @@ teaching.
 			t1.EnrollCourse(c3);
 			//display TAs enrolled courses
 			t1.DisplayEnrolledCourses();
-			t1.TeachCourse(c1);
-			t1.TeachCourse(c2);
-			t1.TeachCourse(c3);
+			t1.TeachCourse(c6);
+			t1.TeachCourse(c7);
 			t1.DisplayTeachingCourses();
 
 2.4 TAMain.java
